@@ -19,4 +19,4 @@ Finally, I have changed the audio clips of some of the actions and add many othe
 - Add sound effect when winning the game -> WinBanjo: https://freesound.org/people/Fupicat/sounds/521640/
 - Add background game theme loop -> Krasnodar Fury theme: https://freesound.org/people/SwimmingRock/sounds/647626/
 
-In conclusión, while the new features and improvements do not alter the core gameplay, they refine the overall experience.
+In conclusion, while the new features and improvements do not alter the core gameplay, they refine the overall experience.
